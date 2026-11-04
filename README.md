@@ -37,7 +37,7 @@ python3 -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
 pip install -e ".[dev]"
 cp .env.example .env             # optional
-uvicorn expense_tracker.main:app --reload
+uvicorn expense_tracker.main:app --reload --reload-dir src
 ```
 
 Then open:
