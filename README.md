@@ -6,6 +6,8 @@ The browser interface for this API lives in [expense-tracker-frontend](https://g
 
 <!-- After deploying, add here: **Live demo:** https://your-deployed-url/docs -->
 
+![API docs](docs/screenshot-docs.png)
+
 ## Features
 
 | Action | Description |
